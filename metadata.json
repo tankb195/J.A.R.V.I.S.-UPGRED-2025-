@@ -1,0 +1,8 @@
+{
+  "name": "J.A.R.V.I.S. Interface",
+  "description": "Real-time, voice-activated intelligent assistant powered by Gemini 2.5 Live API. Features multilingual support, visual context awareness, and persistent conversational memory.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
